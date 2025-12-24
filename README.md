@@ -1,7 +1,3 @@
-
-
-
-
 # 📊 Ritwik Singh — Data Analyst & Analytics Engineer
 
 <p align="center">
@@ -188,7 +184,3 @@ I’d love to talk.
 <p align="center">
 ⭐ If you find my work useful, consider starring this repository
 </p>
-
----
-
-
