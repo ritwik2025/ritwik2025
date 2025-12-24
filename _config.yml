@@ -1,5 +1,5 @@
 title: Ritwik Singh
 logo: /assets/profile_pic.png
-description: Data Analyst | Analytics Engineering | Business Intelligence
-show_downloads: false
+#description: Data Analyst | Analytics Engineering | Business Intelligence
+show_downloads: true
 theme: jekyll-theme-minimal
