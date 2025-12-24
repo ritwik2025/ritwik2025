@@ -1,7 +1,7 @@
 # 📊 Ritwik Singh — Data Analyst & Analytics Engineer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ritwik2025/ritwik2025/main/assets/profile_pic.png" width="180" />
+  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/ritwik2025/ritwik2025/main/assets/profile_pic.jpg&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="180" />
 </p>
 
 
