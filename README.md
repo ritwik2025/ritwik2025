@@ -1,8 +1,9 @@
 # 📊 Ritwik Singh — Data Analyst & Analytics Engineer
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/ritwik2025/ritwik2025/main/assets/profile_pic.jpg" width="180" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/ritwik2025/ritwik2025/main/assets/profile_pic.png" width="180" />
 </p>
+
 
 <p align="center">
 <b>Data Analyst | Analytics Engineering | Business Intelligence</b><br>
