@@ -66,7 +66,7 @@ Currently based in **London, UK** with **full right to work**.
 
 ---
 
-### **Data Analyst - Iauro Systems (India)**
+### **Data Analyst - iauro Systems Pvt Ltd (India)**
 *Jan 2023 – May 2023*
 
 * Built **Power BI dashboards** to track application performance and user behaviour
