@@ -1,4 +1,4 @@
-# Ritwik Singh — Data Analyst & Analytics Engineer
+# Ritwik Singh - Data Analyst & Analytics Engineer
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/ritwik2025/ritwik2025/main/assets/profile_pic.jpg&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="180" />
@@ -11,7 +11,7 @@ London, United Kingdom • 4.5+ Years Experience • SQL • Python • Power BI
 
 <p align="center">
 <a href="https://linkedin.com/in/ritwiksingh2108">LinkedIn</a> • 
-<a href="https://datascienceportfol.io/RitwikS">Portfolio</a> • 
+<a href="[https://datascienceportfol.io/RitwikS](https://ritwik-portfolio-dhoif0jlv-ritvik-singhs-projects-1208b5d1.vercel.app/)">Portfolio</a> • 
 <a href="mailto:ritwiksingh2108@gmail.com">Email</a>
 </p>
 
