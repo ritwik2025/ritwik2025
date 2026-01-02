@@ -11,7 +11,7 @@ London, United Kingdom • 4.5+ Years Experience • SQL • Python • Power BI
 
 <p align="center">
 <a href="https://linkedin.com/in/ritwiksingh2108">LinkedIn</a> • 
-<a href="[https://datascienceportfol.io/RitwikS](https://ritwik-portfolio-dhoif0jlv-ritvik-singhs-projects-1208b5d1.vercel.app/)">Portfolio</a> • 
+<a href="https://ritwik-portfolio-dhoif0jlv-ritvik-singhs-projects-1208b5d1.vercel.app/">Portfolio</a> • 
 <a href="mailto:ritwiksingh2108@gmail.com">Email</a>
 </p>
 
