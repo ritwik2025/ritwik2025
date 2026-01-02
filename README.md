@@ -55,7 +55,7 @@ Currently based in **London, UK** with **full right to work**.
 
 ## 💼 Professional Experience
 
-### **SAP Master Data Analyst — Jaguar Land Rover (UK)**
+### **SAP Master Data Analyst - Jaguar Land Rover (UK)**
 *Feb 2025 – Present*
 
 * Cleansed and enriched **25,000+ material records** to support a successful **SAP S/4HANA cutover**
@@ -66,7 +66,7 @@ Currently based in **London, UK** with **full right to work**.
 
 ---
 
-### **Data Analyst — Iauro Systems (India)**
+### **Data Analyst - Iauro Systems (India)**
 *Jan 2023 – May 2023*
 
 * Built **Power BI dashboards** to track application performance and user behaviour
@@ -76,7 +76,7 @@ Currently based in **London, UK** with **full right to work**.
 
 ---
 
-### **Data Analyst — GlobalLogic (India)**
+### **Data Analyst - GlobalLogic (India)**
 *Jul 2022 – Nov 2022*
 
 * Built dashboards to track **onboarding trends and workforce readiness**
@@ -85,7 +85,7 @@ Currently based in **London, UK** with **full right to work**.
 
 ---
 
-### **Senior Data Analyst — Infosys (India)**
+### **Senior Data Analyst - Infosys (India)**
 *Dec 2019 – Jul 2022*
 
 * Promoted within 6 months for delivering **high-impact data automation**
@@ -121,11 +121,11 @@ Developed a **Ford–Fulkerson decision support system** for passenger capacity 
 
 ## 🎓 Education
 
-**MSc Business Analytics** — University of Bath, UK  
+**MSc Business Analytics** - University of Bath, UK  
 *2023 – 2024*  
 Merit with **Distinction in Dissertation**
 
-**B.E. Computer Engineering** — University of Mumbai  
+**B.E. Computer Engineering** - University of Mumbai  
 *2015 – 2019*
 
 ---
